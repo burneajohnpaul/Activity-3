@@ -1,0 +1,27 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.btn{
+    -fx-background-color: #0000ff
+}
+
+.img {
+  border: 5px solid #555;
+}
+
+.img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+#pane {
+    -fx-background-color: #FFFFFF;
+    -fx-padding: 20;
+     border: 5px solid #555;
+}
